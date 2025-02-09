@@ -58,7 +58,7 @@
                         <div class="form-control d-flex flex-column justify-content-center align-items-center py-3">
                             <label for="lastname">Phone</label>
                             <a class="text-decoration-none"
-                                href="https://wa.me/50760180332?text={{ urlencode('Hola, ví tu portafolio web.') }}}"
+                                href="https://wa.me/50760180332?text={{ urlencode('Hola, ví tu portafolio web.') }}"
                                 target="_blank">
                                 <strong>+507 6018-0332</strong>
                             </a>
