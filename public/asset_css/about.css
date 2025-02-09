@@ -1,0 +1,17 @@
+h2 {
+    font-size: 40px;
+}
+
+.skill {
+    width: 100px; /* Ancho fijo para las cajas */
+    height: 60px; /* Alto fijo para las cajas */
+    background-color: #bebebe; /* Color de fondo de las cajas */
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .content {
+        margin-top: 40px;
+    }
+}
+
