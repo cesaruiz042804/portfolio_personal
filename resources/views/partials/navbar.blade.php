@@ -13,8 +13,6 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item px-3"><a class="nav-link text-light" href="{{ route('example') }}" title="Home">Example</a>
-                    </li>
                     <li class="nav-item px-3"><a class="nav-link text-light" href="{{ route('home') }}" title="Home">Home</a>
                     </li>
                     <li class="nav-item px-3"><a class="nav-link text-light" href="{{ route('about') }}" title="About me">About

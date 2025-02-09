@@ -1,3 +1,7 @@
+.content-height {
+    min-height: 100vh
+}
+
 #about {
     margin: 10px auto;
     padding: 0px auto;
@@ -176,9 +180,10 @@ img {
 
 
 @media (max-width: 768px) {
-    #about {
-        margin: 20px auto;
-        padding: 0px auto;
+    .content-height {
+        min-height: 85vh;
+        margin: 0;
+        height: auto;
     }
 
     #about h2 {
