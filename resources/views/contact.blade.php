@@ -46,7 +46,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6 my-2">
+                    <div class="col-md-12 my-2">
                         <div class="form-control d-flex flex-column justify-content-center align-items-center py-3">
                             <label for="name">Email</label>
                             <a class="text-decoration-none"
@@ -54,6 +54,7 @@
                                 target="_blank"><strong>cesaruiz042804@gmail.com</strong></a>
                         </div>
                     </div>
+                    <!--
                     <div class="col-md-6 my-2">
                         <div class="form-control d-flex flex-column justify-content-center align-items-center py-3">
                             <label for="lastname">Phone</label>
@@ -64,6 +65,7 @@
                             </a>
                         </div>
                     </div>
+                -->
                 </div>
 
                 <div id="app">
