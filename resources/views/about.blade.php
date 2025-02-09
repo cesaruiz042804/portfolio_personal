@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>About me</title>
+    <meta name="description" content="Explore my web portfolio and discover innovative projects that showcase my experience in web development.">
+    <meta name="keywords" content="web development, web application development, Laravel, Vue.js, Bootstrap, HTML, CSS, hosting, cPanel, Hostinger, GitHub, web design, front-end development, back-end development, full-stack development, web solutions, web portfolio, website development, e-commerce development, web systems development, UX/UI design, web consulting, web maintenance, responsive design, SEO, web accessibility, La Chorrera, Ciudad de Panama">
     <link rel="shortcut icon" href="{{ asset('images/diseno.png') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet">
