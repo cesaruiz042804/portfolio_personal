@@ -58,7 +58,7 @@
                         <div class="form-control d-flex flex-column justify-content-center align-items-center py-3">
                             <label for="lastname">Phone</label>
                             <a class="text-decoration-none"
-                                href="https://wa.me/50760180332?text={{ urlencode('Patitas al Rescate\n\nEstimado/a, necesitamos más información sobre la cita que solicitó para poder asignarle correctamente el día de la cita. Por favor, indíquenos el tipo de servicio requerido y su preferencia de horario. Gracias.') }}}"
+                                href="https://wa.me/50760180332?text={{ urlencode('Hola, ví tu portafolio web.') }}}"
                                 target="_blank">
                                 <strong>+507 6018-0332</strong>
                             </a>
