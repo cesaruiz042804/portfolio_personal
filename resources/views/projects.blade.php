@@ -60,7 +60,7 @@
                 <h2 class="fs-4">Shirini-E</h2>
                 <p class="fs-6">Laravel | Javascript | HTML | CSS.</p>
                 <a href="https://shirini-e.myhostingspace.net/index" target="_blank"
-                class="text-decoration-none">Shirini-E – E-commerce for Artisan Ice Cream</a>
+                    class="text-decoration-none">Shirini-E – E-commerce for Artisan Ice Cream</a>
                 <p>Estimated Duration: 4 weeks.</p>
             </div>
             <div class="list-group-item list-group-item-action py-3">
@@ -68,10 +68,10 @@
                 <p class="fs-6">Laravel | Javascript | Bootstrap.</p>
                 <a href="https://ecology-survey.myhostingspace.net" target="_blank" class="text-decoration-none">Ecology
                     Survey – Environmental Survey</a>
-                <p>Estimated Duration: 1-2 hours.</p>
                 <br>
                 <a href="https://ecology-survey.myhostingspace.net/listado" target="_blank"
                     class="text-decoration-none">Ecology Survey Listing – Ecological Data Analysis and Reports</a>
+                <p>Estimated Duration: 1-2 hours.</p>
             </div>
             <div class="list-group-item list-group-item-action py-3">
                 <h2 class="fs-4">Love</h2>
