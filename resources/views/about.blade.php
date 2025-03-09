@@ -28,22 +28,23 @@
             <div class="row">
                 <section class="col-md-7 d-flex flex-column">
                     <h2 class="">About me</h2>
-                    <p>Developer with experience in <strong>Laravel</strong>, <strong>Vue.js</strong>, and
-                        <strong>.NET</strong>.
-                        Web Development (<strong>Laravel - PHP</strong>): I have a solid command of the <strong>PHP
-                            Laravel framework</strong>, which I use to build modern and efficient web applications. I
-                        have experience in designing robust architectures, developing and integrating databases.
-                        <strong>Front-end</strong> Development (<strong>Vue.js - JavaScript</strong>): On the client
-                        side, I have knowledge of <strong>Vue.js</strong>, a progressive <strong>JavaScript
-                            framework</strong> that allows me to create interactive and reactive user interfaces.
-                        <strong>.NET (C#)</strong>: I also have experience in developing with <strong>.NET</strong> and
-                        <strong>C#</strong>, which allows me to tackle projects that require the Microsoft ecosystem.
-                        Web Hosting Administration: I am familiar with administering web servers using control panels
-                        like <strong>cPanel</strong> and <strong>Hostinger</strong>. This includes domain configuration,
-                        database management, and the implementation of security measures.
-                        Design and Layout (<strong>Bootstrap</strong>): I use the <strong>Bootstrap CSS
-                            framework</strong> to create responsive and visually appealing web designs. This ensures
-                        that my projects look and function optimally on any device.
+                    <p>Experienced web developer specializing in the development of robust and scalable web
+                        applications. My expertise spans a diverse technological spectrum, including:
+                        <strong>Backend</strong>: Proficient in <strong>Laravel (PHP)</strong> for building web
+                        applications and secure APIs, implementing authentication with <strong>JWT</strong> and
+                        <strong>Laravel Sanctum</strong>. Introductory knowledge in <strong>.NET (C#)</strong>
+                        application development, including <strong>ASP.NET MVC</strong> with <strong>Entity
+                            Framework</strong> and <strong>Windows Forms</strong> desktop applications.
+                        <strong>Frontend</strong>: Development of dynamic and reactive user interfaces using
+                        <strong>Vue.js</strong> and <strong>React</strong>. <strong>Design and Layout</strong>: Creation
+                        of responsive and visually appealing web designs utilizing <strong>Bootstrap</strong> and
+                        <strong>Tailwind CSS</strong>. <strong>Server Administration</strong>: Efficient management of
+                        web servers using <strong>cPanel</strong> and <strong>Hostinger</strong>, covering domain
+                        configuration, database administration, and security measure implementation. <strong>Tools and
+                            Methodologies</strong>: Utilization of modern development tools such as
+                        <strong>Insomnia</strong> for API testing, <strong>GitHub Copilot</strong> for code
+                        optimization, and <strong>GitHub</strong> for version control, collaboration, and automated web
+                        application deployment.
                     </p>
                 </section>
 
@@ -55,15 +56,15 @@
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
                             PHP</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
-                            Html</li>
+                            React</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
-                            Css</li>
+                            Vue.js</li>
+                        <li class="skill rounded text-center d-flex align-items-center justify-content-center">
+                            Tailwind</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
                             Bootstrap</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
                             JavaScript</li>
-                        <li class="skill rounded text-center d-flex align-items-center justify-content-center">
-                            Vue.js</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
                             Github</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
@@ -73,7 +74,7 @@
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
                             C#</li>
                         <li class="skill rounded text-center d-flex align-items-center justify-content-center">
-                            SEO</li>
+                            API</li>
                     </ul>
                 </section>
             </div>
