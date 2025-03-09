@@ -29,7 +29,7 @@
                     <p>Junior Programmer</p>
                     <p><strong>Developer</strong> with the ability to adapt to any challenge. My proficiency in
                         <strong>Laravel</strong>,
-                        <strong>Vue.Js</strong> and <strong>.NET</strong>
+                        <strong>React.js</strong>, <strong>Vue.js</strong>, <strong>Bootstrap</strong>, <strong>Tailwind</strong> and <strong>.NET</strong>
                         allows me
                         to create comprehensive solutions, from <strong>back-end</strong> architecture to user
                         interface."
